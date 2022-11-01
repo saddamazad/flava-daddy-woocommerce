@@ -513,3 +513,4 @@ function add_subscription_items_to_cart() {
 
 // remove product link from cart items
 add_filter('woocommerce_cart_item_permalink','__return_false');
+
