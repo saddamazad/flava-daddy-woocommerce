@@ -1,5 +1,4 @@
 <?php
-
 /**
  * astra-child Theme functions and definitions
  *
